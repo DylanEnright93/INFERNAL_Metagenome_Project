@@ -8,3 +8,6 @@ fh = open(file, "r")
 for line in fh:
 	line.split(" ")
 	print (line)
+	
+	
+# use by calling python report_parser.py > parsed_report.txt
